@@ -1,6 +1,6 @@
 // Mapping the codes
 const codes = {
-    "GAME": "task1.html",  // First code to 1task.html
+    "game": "task1.html",  // First code to 1task.html
     "pink": "task2.html",  // Second code to 2task.html
     "021110": "task3.html",
 };
