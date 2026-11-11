@@ -1,8 +1,8 @@
 // Mapping the codes
 const codes = {
     "GAME": "task1.html",  // First code to 1task.html
-    "DATE": "task2.html",  // Second code to 2task.html
-    "BIRTHDAY": "task3.html",
+    "pink": "task2.html",  // Second code to 2task.html
+    "021110": "task3.html",
 };
 
 const submitBtn = document.getElementById("submitBtn");
