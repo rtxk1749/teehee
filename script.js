@@ -1,3 +1,4 @@
+console.log("NEW SCRIPT LOADED");
 // Mapping the codes
 const codes = {
     "game": "task1.html",
